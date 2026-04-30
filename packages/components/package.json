@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vuelidate/vuelidate",
+    "url": "https://github.com/Logiclayer1111/vuelidate",
     "directory": "packages/components"
   },
   "module": "dist/index.mjs",

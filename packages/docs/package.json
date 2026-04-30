@@ -4,7 +4,7 @@
   "private": true,
   "description": "Vuelidate documentation",
   "main": "index.js",
-  "repository": "https://github.com/vuelidate/vuelidate",
+  "repository": "https://github.com/Logiclayer1111/vuelidate",
   "license": "MIT",
   "scripts": {
     "build:docs": "vitepress build src",

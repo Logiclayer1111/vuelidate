@@ -2,7 +2,7 @@
 
 Hi! We are really excited that you are interested in contributing to Vuelidate. Before submitting your contribution, please make sure to take a moment and read through the following guidelines:
 
-- [Code of Conduct](https://github.com/vuelidate/vuelidate/blob/master/.github/CODE_OF_CONDUCT.md)
+- [Code of Conduct](https://github.com/Logiclayer1111/vuelidate/blob/master/.github/CODE_OF_CONDUCT.md)
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Pull Request Guidelines](#pull-request-guidelines)
 - [Development Setup](#development-setup)

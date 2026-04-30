@@ -79,4 +79,4 @@ expect(v$.value.number.$invalid).toBe(true)
 * **Usage:**
 
   Turn on the `reward-early-punish-late` mode of Vuelidate. This mode will not set fields as `invalid` once they are `valid`, unless manually
-  triggered, by `$commit` or `$validate` methods. See https://github.com/vuelidate/vuelidate/issues/897
+  triggered, by `$commit` or `$validate` methods. See https://github.com/Logiclayer1111/vuelidate/issues/897

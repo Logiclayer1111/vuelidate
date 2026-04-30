@@ -24,10 +24,10 @@ If yes, please describe the impact and migration path for existing applications:
 
 **The PR fulfills these requirements:**
 
-- [ ] I have read the [Contribution Guides](https://github.com/vuelidate/vuelidate/blob/master/.github/CONTRIBUTING.md#pull-request-guidelines)
+- [ ] I have read the [Contribution Guides](https://github.com/Logiclayer1111/vuelidate/blob/master/.github/CONTRIBUTING.md#pull-request-guidelines)
 - [ ] It's submitted to the `next` branch
 - [ ] When resolving a specific issue, it's referenced in the PR's title (e.g. `fix #xxx[,#xxx]`, where "xxx" is the issue number)
-- [ ] All tests are passing: https://github.com/vuelidate/vuelidate/blob/master/.github/CONTRIBUTING.md#development-setup
+- [ ] All tests are passing: https://github.com/Logiclayer1111/vuelidate/blob/master/.github/CONTRIBUTING.md#development-setup
 - [ ] New/updated tests are included
 
 If adding a **new feature**, the PR's description includes:

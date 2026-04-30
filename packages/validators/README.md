@@ -1,6 +1,6 @@
 # Vuelidate Validators
 
-This is the standalone validators package for [Vuelidate](https://github.com/vuelidate/vuelidate).
+This is the standalone validators package for [Vuelidate](https://github.com/Logiclayer1111/vuelidate).
 
 ## Installation
 
