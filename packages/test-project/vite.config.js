@@ -1,6 +1,14 @@
+import path from 'path'
 import vue from '@vitejs/plugin-vue'
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  plugins: [vue()]
+  plugins: [vue()],
+  resolve: {
+    alias: {
+      '@vuelidate/core': path.resolve(__dirname, '../vuelidate/src/index.js'),
+      '@vuelidate/validators': path.resolve(__dirname, '../validators/src/index.js'),
+      '@vuelidate/components': path.resolve(__dirname, '../components/index.js')
+    }
+  }
 })
