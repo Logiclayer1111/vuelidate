@@ -3,5 +3,5 @@ import { generateConfigFactory, generateOutputConfig } from '../../rollup.base.m
 export default generateConfigFactory({
   libraryName: 'Vuelidate',
   outputConfigs: generateOutputConfig('index'),
-  copyTypes: true
+  copyTypes: false
 })
