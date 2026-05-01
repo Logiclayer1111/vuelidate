@@ -1,0 +1,6 @@
+[build]
+  command = "cd packages/docs && yarn build:docs"
+  publish = "packages/docs/src/.vitepress/dist"
+
+[build.environment]
+  NODE_VERSION = "18"
